@@ -1,1 +1,7 @@
-<h1>About</h1>
+<script lang="ts">
+    import Page from "$lib/components/Page.svelte";
+</script>
+
+<Page>
+    <h1>About</h1>
+</Page>

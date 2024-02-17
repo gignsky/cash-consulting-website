@@ -17,6 +17,11 @@
             name: "Contact",
             href: "/contact",
         },
+        schedule: {
+            name: "Schedule a Service",
+            href: "/schedule",
+            style: "different",
+        },
     };
 
     const handlePagePosition = (nav: HTMLElement) => {

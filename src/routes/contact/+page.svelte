@@ -1,9 +1,8 @@
 <script lang="ts">
+    import Page from "$lib/components/Page.svelte";
     import Forum from "$lib/components/Forum.svelte";
 </script>
 
-<h1>Contact</h1>
-
-<div></div>
-
-<!-- <Forum /> -->
+<Page>
+    <h1>Contact</h1>
+</Page>
